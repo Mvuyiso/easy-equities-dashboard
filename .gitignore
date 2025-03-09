@@ -1,0 +1,9 @@
+node_modules/
+# Node.js
+node_modules/
+*/node_modules/
+frontend/node_modules/
+# Cache files
+.cache/
+**/.cache/
+frontend/node_modules/.cache/
