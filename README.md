@@ -21,6 +21,10 @@ The project consists of two main parts:
 ### Backend Setup
 
 ```bash
+
+# Install base EasyEquities client
+pip install easy-equities-client
+
 # Navigate to the backend directory
 cd backend
 
